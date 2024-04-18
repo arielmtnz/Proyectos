@@ -1,0 +1,1 @@
+- El motor de base de datos más popular para aplicaciones web es MySQL. Se estima que más del 50% de las aplicaciones web lo utilizan.

@@ -1,0 +1,10 @@
+Herramientas de programación
+	- Front End: html, css, javascript
+	- Back End: 
+	- Mobile: React Native
+
+Storage: Bases de datos (SQL, NoSQL)
+	- MySQL
+	- Oracle (XE)
+
+Hosting: 
