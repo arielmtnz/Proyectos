@@ -4,3 +4,4 @@
 	- Comentarios
 - Personas
 - Animales
+- Otros
