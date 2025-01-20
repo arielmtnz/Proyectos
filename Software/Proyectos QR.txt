@@ -1,0 +1,6 @@
+- Lapidas
+	- Información general
+	- Videos
+	- Comentarios
+- Personas
+- Animales
