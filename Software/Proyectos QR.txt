@@ -1,7 +1,21 @@
-- Lapidas
+- Memorial: lembranzas.family
+			Registro de Dominio					:   300.000 
+			Web Hosting		   					: 1.000.000 
+			
+			Trabajos de Fotografia 				
+			Desarrollo Web
+
+		    Formas de Cobro
+			
 	- Información general
 	- Videos
 	- Comentarios
-- Personas
-- Animales
+	- Musicas: Alegres: Somewhere over the Rainbow, etc.
+
+
+
+TARJET
+==================
+- Personas: CV
+- Animales: GPS
 - Otros
